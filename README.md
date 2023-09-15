@@ -13,13 +13,13 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-
-    <pre>git clone https://github.com/wwaannttyy/payments.git<pre>
-
+    ```
+    git clone https://github.com/wwaannttyy/payments.git<pre>
+    ```
 2. Установите необходимые зависимости:
-
-    <pre>pip install -r requirements.txt<pre>
-
+    ```
+    pip install -r requirements.txt
+    ```
 3. Настройте файл конфигурации:
 
 Переименуйте файл config.example.ini в config.ini и обновите следующие параметры:
@@ -29,9 +29,9 @@
 - inventory_file: Путь к файлу инвентаря
 
 4. Запустите бота:
-
-    <pre>python bot.py<pre>
-
+    ```
+    python bot.py
+    ```
 ## Использование
 
 После запуска бота вы можете взаимодействовать с ним через Telegram. Начните чат с ботом и используйте следующие команды:
