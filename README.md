@@ -14,12 +14,12 @@
 
 1. Клонируйте репозиторий:
 
-    git clone https://github.com/wwaannttyy/payments.git
+    <pre>git clone https://github.com/wwaannttyy/payments.git<pre>
 
 
 2. Установите необходимые зависимости:
 
-    pip install -r requirements.txt
+    <pre>pip install -r requirements.txt<pre>
 
 
 3. Настройте файл конфигурации:
@@ -32,7 +32,7 @@
 
 4. Запустите бота:
 
-    python bot.py
+    <pre>python bot.py<pre>
 
 
 ## Использование
